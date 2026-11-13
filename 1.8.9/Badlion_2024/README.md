@@ -14,20 +14,20 @@
 	()
 
  ### Step 2: Import
-	- Open Prism and click on `Add Instance`
-	- Select `Import` then click on `Browse` and select the downloaded `.zip` file.
-	- Prism will automatically import all the things and settings.
+	 Open Prism and click on `Add Instance`
+	 Select `Import` then click on `Browse` and select the downloaded `.zip` file.
+	 Prism will automatically import all the things and settings.
  
  ### Step 3: Change Java
-	- After Successfull import right click on instance and go to `Edit`
-	- Go to settings
-	- Check the Java installation option
-	- Download java ( either `default` or `eclipse_temurin_jre8.0.492+9`)
+	 After Successfull import right click on instance and go to `Edit`
+	 Go to settings
+	 Check the Java installation option
+	 Download java ( either `default` or `eclipse_temurin_jre8.0.492+9`)
  
  ### Step 4: Adding java arguments
-	- Check the Java arguments option in java section
-	- Add the following arguemnt: `-javaagent:Agent.jar`
-	- make sure the spelling is correct.
+	 Check the Java arguments option in java section
+	 Add the following arguemnt: `-javaagent:Agent.jar`
+	 make sure the spelling is correct.
  
 ## Modrinth
 	I haven't checked modrinth but I added the `.mrpack` anyway for other launchers.
