@@ -11,8 +11,7 @@
  
 ## Installation
  ### Step 1: Download
-   - Download or clone the latest release `badlion_2024.zip` file from [Releases]
-	()
+   - Download or clone the latest release `badlion_2024.zip` file.
 
  ### Step 2: Import
    - Open Prism and click on `Add Instance`
