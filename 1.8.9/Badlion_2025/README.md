@@ -10,22 +10,21 @@ Cracked badlion client for external launcher by  https://github.com/mcjef/badlio
  
 ## Installation
  ### Step 1: Download
-	- Download or clone the latest release `badlion_2025.zip` file from [Releases]
-	()
+   - Download or clone the latest release `badlion_2025.zip` file.
 
  ### Step 2: Import
-	- Open Prism and click on `Add Instance`
-	- Select `Import` then click on `Browse` and select the downloaded `.zip` file.
-	- Prism will automatically import all the things and settings.
+   - Open Prism and click on `Add Instance`
+   - Select `Import` then click on `Browse` and select the downloaded `.zip` file.
+   - Prism will automatically import all the things and settings.
  
  ### Step 3: Change Java
-	- After Successfull import right click on instance and go to `Edit`
-	- Go to settings
-	- Check the Java installation option
-	- Download java ( either `Java 17` Ex: `eclipse_temurin_jre17.0.19+10`)
-	- Check `Skip Java compatibility checks` option
-		Note -- This instance will not work with Java8 so you have to manually install Java17
+   - After Successfull import right click on instance and go to `Edit`
+   - Go to settings
+   - Check the Java installation option
+   - Download java ( either `Java 17` Ex: `eclipse_temurin_jre17.0.19+10`)
+   - Check `Skip Java compatibility checks` option
+      	Note -- This instance will not work with Java8 so you have to manually install Java17
 		
 ## Modrinth
-	I haven't checked modrinth but I added the `.mrpack` anyway for other launchers.
-	You only need `.zip` file for prism installation.
+   I haven't checked modrinth but I added the `.mrpack` anyway for other launchers.
+   You only need `.zip` file for prism installation.
